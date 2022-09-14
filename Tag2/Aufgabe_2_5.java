@@ -1,4 +1,6 @@
-public class Main {
+package Tag2;
+
+public class Aufgabe_2_5 {
 
   public static void main(String[] args) {
   
